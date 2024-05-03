@@ -47,11 +47,11 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/specializations/deep-learning) | Deep Learning Specialization | **Completed** |
-| [Coursera](https://www.coursera.org/professional-certificates/ai-engineer) | IBM AI Engineering Professional Certificate | **Completed** |
+| [Coursera](https://www.coursera.org/specializations/deep-learning) | Deep Learning Specialization | **ToDo** |
+| [Coursera](https://www.coursera.org/professional-certificates/ai-engineer) | IBM AI Engineering Professional Certificate | **ToDo** |
 | [OpenDataScience](https://dlcourse.ai/) | Deep Learning Ð½Ð° Ð¿Ð°Ð»ÑŒÑ†Ð°Ñ… | **Completed** |
-| [Udemy](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/) | Complete Guide to TensorFlow for Deep Learning with Python | **Completed** |
-| [Udacity](https://www.udacity.com/course/deep-learning-pytorch--ud188) | Intro to Deep Learning with PyTorch | **Completed** |
+| [Udemy](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/) | Complete Guide to TensorFlow for Deep Learning with Python | **ToDo** |
+| [Udacity](https://www.udacity.com/course/deep-learning-pytorch--ud188) | Intro to Deep Learning with PyTorch | **ToDo** |
 
 
 ### MLOps
@@ -70,39 +70,35 @@ My roadmap to study Data Science.
 | [Udemy](https://www.udemy.com/nlp-natural-language-processing-with-python) | NLP - Natural Language Processing with Python | **Todo** |
 
 
-### Computer Vision
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | Generative Adversarial Networks (GANs) Specialization | **Completed** |
 ### Reinforcement Learning
 
 ## Data Engineering
 ### SQL
+
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/learn/sql-data-science) | Databases and SQL for Data Science with Python | **Completed** |
+| [Coursera](https://www.coursera.org/learn/sql-data-science) | Databases and SQL for Data Science with Python | **ToDo** |
 | [Coursera](https://www.coursera.org/specializations/learn-sql-basics-data-science) | Learn SQL Basics for Data Science Specialization | To Do |
 | [Coursera](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | Modern Big Data Analysis with SQL Specialization | To Do |
-| [DataCamp](https://www.datacamp.com/career-tracks/data-analyst-with-sql-server) | Data Analyst with SQL Server | **Completed** |
-| [DataCamp](https://www.datacamp.com/skill-tracks/sql-for-business-analysts) | SQL for Business Analysts | **Completed** |
-| [DataCamp](https://www.datacamp.com/skill-tracks/sql-for-database-administrators) | SQL for Database Administrators | **Completed** |
-| [DataCamp](https://www.datacamp.com/tracks/sql-fundamentals) | SQL Fundamentals | **Completed** |
-| [DataCamp](https://www.datacamp.com/tracks/sql-server-fundamentals) | SQL Server Fundamentals | **Completed** |
-| [DataCamp](https://www.datacamp.com/skill-tracks/sql-server-for-database-administrators) | SQL Server for Database Administrators | **Completed** |
+| [DataCamp](https://www.datacamp.com/career-tracks/data-analyst-with-sql-server) | Data Analyst with SQL Server | **ToDo** |
+| [DataCamp](https://www.datacamp.com/skill-tracks/sql-for-business-analysts) | SQL for Business Analysts | **ToDo** |
+| [DataCamp](https://www.datacamp.com/skill-tracks/sql-for-database-administrators) | SQL for Database Administrators | **ToDo** |
+| [DataCamp](https://www.datacamp.com/tracks/sql-fundamentals) | SQL Fundamentals | **ToDo** |
+| [DataCamp](https://www.datacamp.com/tracks/sql-server-fundamentals) | SQL Server Fundamentals | **ToDo** |
+| [DataCamp](https://www.datacamp.com/skill-tracks/sql-server-for-database-administrators) | SQL Server for Database Administrators | **ToDo** |
 | [Udemy](https://www.udemy.com/the-complete-sql-bootcamp) | The Complete SQL Bootcamp | To Do |
 
 ### Big Data
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [DataCamp](https://www.datacamp.com/tracks/data-engineer-with-python) | Data Engineer with Python | **Completed** 
+| [DataCamp](https://www.datacamp.com/tracks/data-engineer-with-python) | Data Engineer with Python | **ToDo** | 
 | [Udacity](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce) | Intro to Hadoop and MapReduce | To Do |
 | [Udemy](https://www.udemy.com/apache-spark-with-scala-hands-on-with-big-data) | Apache Spark 2 with Scala - Hands On with Big Data! | To Do |
-| [Udemy](https://www.udemy.com/cart/success/294215128/) | Elasticsearch 7 and the Elastic Stack - In Depth & Hands On! | **Completed** |
+| [Udemy](https://www.udemy.com/cart/success/294215128/) | Elasticsearch 7 and the Elastic Stack - In Depth & Hands On! | **ToDo** |
 | [Udemy](https://www.udemy.com/scala-and-spark-for-big-data-and-machine-learning) | Scala and Spark for Big Data and Machine Learning | To Do |
-| [Udemy](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark) | Spark and Python for Big Data with PySpark | **Completed** |
+| [Udemy](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark) | Spark and Python for Big Data with PySpark | **ToDo** |
 | [Udemy](https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data) | The Ultimate Hands-On Hadoop - Tame your Big Data! | To Do |
 
 
@@ -110,18 +106,18 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-architecture) | GCP Architecture | **Completed** |
-| [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-data-ml) | GCP Data & Machine Learning | **Completed** |
-| [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-development) | GCP Development | **Completed** |
-| [Coursera](https://www.coursera.org/specializations/cloud-engineering-gcp) | Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate | **Completed** |
-| [Coursera](https://www.coursera.org/specializations/preparing-for-google-cloud-machine-learning-engineer-professional-certificate) | Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate | **Completed** |
+| [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-architecture) | GCP Architecture | **ToDo** |
+| [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-data-ml) | GCP Data & Machine Learning | **ToDo** |
+| [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-development) | GCP Development | **ToDo** |
+| [Coursera](https://www.coursera.org/specializations/cloud-engineering-gcp) | Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate | **ToDo** |
+| [Coursera](https://www.coursera.org/specializations/preparing-for-google-cloud-machine-learning-engineer-professional-certificate) | Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate | **ToDo** |
 
 ### Virtualization
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [ACloudGuru](https://learn.acloud.guru/learning-path/cloud-adjacent-devops) | DevOps | **Completed** |
-| [Coursera](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift) | Introduction to Containers: Docker, Kubernetes & OpenShift| **Completed** |
+| [ACloudGuru](https://learn.acloud.guru/learning-path/cloud-adjacent-devops) | DevOps | **ToDo** |
+| [Coursera](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift) | Introduction to Containers: Docker, Kubernetes & OpenShift| **ToDo** |
 
 
 ## Mathematics
@@ -131,7 +127,7 @@ My roadmap to study Data Science.
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/learn/discrete-math-and-analyzing-social-graphs) | Discrete Math and Analyzing Social Graphs | **Completed** |
 | [Coursera](https://www.coursera.org/learn/machine-learning-linear-algebra) | Linear Algebra for Machine Learning and Data Science | **Completed** |
-| [Stepik](https://stepik.org/course/91/) | Ð›Ð¸ÐºÐ±ÐµÐ· Ð¿Ð¾ Ð´Ð¸ÑÐºÑ€ÐµÑ‚Ð½Ð¾Ð¹ Ð¼Ð°Ñ‚ÐµÐ¼Ð°Ñ‚Ð¸ÐºÐµ | *In Progress* |
+
 
 ### Statistics & Probability theory
 #### Courses
@@ -153,21 +149,21 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Udemy](https://www.udemy.com/course/d3jsbasics/) | D3.js Data Visualization Fundamentals - Hands On | **Completed** |
+| [Udemy](https://www.udemy.com/course/d3jsbasics/) | D3.js Data Visualization Fundamentals - Hands On | **ToDo** |
 
 
 ### Tableau
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/specializations/data-visualization) | Data Visualization with Tableau Specialization | **Completed** |
+| [Coursera](https://www.coursera.org/specializations/data-visualization) | Data Visualization with Tableau Specialization | **ToDo** |
 
 
 ## Soft Skills
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/learn/ai-for-everyone) | AI For Everyone | **Completed** |
+| [Coursera](https://www.coursera.org/learn/ai-for-everyone) | AI For Everyone | **ToDo** |
 | [Coursera](https://www.coursera.org/specializations/advanced-grammar-punctuation) | Learn English: Advanced Grammar and Punctuation Specialization | **Completed** |
 | [Coursera](https://www.coursera.org/specializations/intermediate-grammar) | Learn English: Intermediate Grammar Specialization | **Completed** |
 | [Coursera](https://www.coursera.org/learn/learning-how-to-learn) | Learning How to Learn: Powerful mental tools to help you master tough subjects | **Completed** |
